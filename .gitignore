@@ -1,3 +1,6 @@
+.idea/
+!.idea/icon*.png
+*.iml
+
 bitrix
 dist
-.idea/
